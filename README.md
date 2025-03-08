@@ -34,9 +34,7 @@ Each phase in the SDLC is indeed important ot deliver high-quality software prod
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall and Agile methodologies are two deveopment methodologies that guide the software development process.
 1. Waterfall Methodology: This involes the sequential approach with distinct phases such as requirements, design, implementation, testing, deployment and maintance flowing downwards like a waterfall. However, this is a rigid methodology.
-2. Agile Methodology: This is an iterative and incremental approach focused on flexibility, collaboration and responding to change. The Agile methodology is open to corrections even if the whole system has not been completed yet. This is why it is more flexible than the Waterfall methodology.
-However, both methodologies implement the structure or orderliness of the Software Development Life Cycle.
-
+2. Agile Methodology: This is an iterative and incremental approach focused on flexibility, collaboration and responding to change. The Agile methodology is open to corrections even if the whole system has not been completed yet. This is why it is more flexible than the Waterfall methodology. However, both methodologies implement the structure or orderliness of the Software Development Life Cycle.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 The roles of the Project MAnager, UI/UX Designer, System Architect, Software Developer, and Quality Assurance Engineer conntributes to different aspects of the software development process (such as project management, design, architecture or structure, coding, and testing) to ensure the successful delivery of the software products.
@@ -53,7 +51,8 @@ Some common challenges faced by software engineers include;
 Changing requirements: Yes, requirements may change during the development cycle, leading to scope creep and project delays.
 Tight Deadlines: Pressure to deliver software products kn schedule can result in rushed development and compromised quality. 
 Technical Debt: Techincal debt is the accumulation of sub-optimal solutions. It can impede future development efforts and increase maintenance costs.
-
+Advice? 
+Create a structured workflow and avoid scope creep as much as possible. Ensure yo do your risk management properly.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Testing is a critical part of quality assurance and involves various types of testing, including:
